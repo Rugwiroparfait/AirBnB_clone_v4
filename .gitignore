@@ -9,6 +9,12 @@ __pycache__/
 .DS_Store
 *.swp
 
+# Ignore json files and yml
+*.yml
+*.json
+*.editorconfig
+*.nycrc
+*.eslintrc
 # Ignore other sensitive or unnecessary files
 *.log
 *.sqlite3
